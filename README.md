@@ -20,5 +20,3 @@ It aims to educate users about phishing techniques, suspicious links, fraudulent
 - Cybersecurity awareness information.
 - Phishing education and prevention tips.
 - Guidance for identifying suspicious links and emails.
-
-Add other features here only if they are implemented in the project.
